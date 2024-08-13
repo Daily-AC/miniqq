@@ -52,4 +52,4 @@ def start_server(server_ip, server_port):
         thread.start()
 
 # 启动服务器
-start_server('192.168.0.107', 5000)  # 替换 '服务器IP' 为实际的服务器IP地址
+start_server('192.168.0.107', 5555)  # 替换 '服务器IP' 为实际的服务器IP地址
