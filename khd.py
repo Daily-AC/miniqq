@@ -44,4 +44,4 @@ def start_client(server_ip, server_port):
     receive_thread.start()
 
 # 启动客户端
-start_client('1.1.1.1', 5555)  # 替换 '主机A或B的IP' 和 '服务器IP' 为实际IP地址
+start_client('1.1.1.1', 5555)  # 服务器ip 端口
